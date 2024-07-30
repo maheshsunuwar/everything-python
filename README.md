@@ -18,4 +18,15 @@
 
 ## Web App
 * [Reflex](https://reflex.dev/) - Build Web apps in `pure Python`
+* [FastHTML](https://fastht.ml/) - Modern web applications `pure Python`
 
+## Learning Resources
+### PyTorch
+* [PyTorch for Deep Learning](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+
+***Libraries***
+* [torchinfo](https://github.com/TylerYep/torchinfo) - Visualization of how model looks like
+
+### NLP
+
+### MLOps
